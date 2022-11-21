@@ -1,14 +1,15 @@
 # Assignment: ?
 
 ## Checklist:
-- [ ] fill out the self evaluation and Reflection
-- [ ] setup github pages for this project
-- [ ] submit the repository link on Canvas
+- [x] fill out the self evaluation and Reflection
+- [x] setup github pages for this project
+- [x] submit the repository link on Canvas
 
 ## Self-Evaluation:
-
-how many points out of 20 do you deserve on this assignment:
+16, I feel like i missed something
 
 ## Self-Reflection:
+First time working with a javascript based game engine and I am looking forward to digging more into it
 
 ### How long it took me to finish this?
+2.5 hours
